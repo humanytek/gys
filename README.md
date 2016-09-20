@@ -2,7 +2,99 @@
 *Humanytek development*
 
 ## Base Modules
-
+* **account_accountant**
+* **account_budget**
+* **account_check_writing**
+* **crm**
+* **project**
+* **website**
 ## External Modules
+* https://github.com/OCA/account-invoicing **-b 8.0**
+    * account_invoice_merge
+* https://github.com/argilsoft/argil-addons-v8/
+    * account_invoice_line_currency
+    * account_invoice_number
+    * **account_invoice_tax**
+    * account_move_line_base_tax
+    * account_move_report
+    * account_voucher_tax
+    * argil_account_consolidation
+    * argil_mx_accounting_reports_consol
+    * **asti_eaccounting_mx_base**
+    * report_multicompany
+* https://github.com/JayVora-SerpentCS/Jasperv8 **-b 8.0**
+    * jasper_reports
+* https://github.com/OCA/server-tools **-b 8.0**
+    * **qweb_usertime**
+* https://github.com/argilsoft/odoo-mexico
+    * argil_odoo_mexico
+    * city
+    * email_template_multicompany
+    * l10n_mx_account_tax_category
+    * l10n_mx_base_vat_split
+    * **l10n_mx_cities**
+    * l10n_mx_company_cif
+    * l10n_mx_company_multi_address
+    * l10n_mx_diot_report
+    * **l10n_mx_facturae**
+    * l10n_mx_facturae_cer
+    * l10n_mx_facturae_group_show_wizards
+    * l10n_mx_facturae_groups
+    * l10n_mx_facturae_lib
+    * l10n_mx_facturae_pac
+    * **l10n_mx_facturae_pac_sf**
+    * l10n_mx_facturae_report
+    * l10n_mx_facturae_seq
+    * l10n_mx_invoice_amount_to_text
+    * l10n_mx_invoice_currency_chgdft
+    * l10n_mx_invoice_datetime
+    * l10n_mx_invoice_ftp
+    * l10n_mx_invoice_wkf_security
+    * l10n_mx_ir_attachment_facturae
+    * l10n_mx_notes_invoice
+    * l10n_mx_params_pac
+    * l10n_mx_partner_address
+    * l10n_mx_payment_method
+    * l10n_mx_purchase_payment_method
+    * l10n_mx_regimen_fiscal
+    * l10n_mx_res_partner_bank
+    * l10n_mx_sale_payment_method
+    * l10n_mx_settings_facturae
+    * l10n_mx_states
+    * l10n_mx_upload_ftp
+* https://www.odoo.com/apps/modules/8.0/wk_wizard_messages/
+    * wk_wizard_messages
 
 ## Humanytek Modules
+* https://github.com/humanytek/change_partner_city_position
+    * change_partner_city_position
+* https://github.com/humanytek/farm
+    * farm
+* https://github.com/humanytek/partner_credential
+    * partner_credential
+* https://github.com/humanytek/partner_curp
+    * partner_curp
+* https://github.com/humanytek/purchase_contract_type
+    * purchase_contract_type
+* https://github.com/humanytek/purchase_dates
+    * purchase_dates
+* https://github.com/humanytek/purchase_sign
+    * purchase_sign
+* https://github.com/humanytek/sale_contract_type
+    * sale_contract_type
+* https://github.com/humanytek/truck
+    * truck
+* https://github.com/humanytek/truck_outlet
+    * truck_outlet
+* https://github.com/humanytek/truck_reception
+    * truck_reception
+* https://github.com/humanytek/vehicle
+    * vehicle
+* https://github.com/humanytek/vehicle_outlet
+    * vehicle_outlet
+* https://github.com/humanytek/vehicle_reception
+    * vehicle_reception
+* https://github.com/humanytek/wagon
+    * wagon
+* https://github.com/humanytek/waterhole
+    * waterhole
