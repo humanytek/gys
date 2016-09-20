@@ -45,4 +45,4 @@
 	url = git@github.com:humanytek/waterhole
 [submodule "wagon"]
 	path = wagon
-	url = git@github.com:humanytek/wagon
+	url = git@github.com:humanytek/wagon.git
