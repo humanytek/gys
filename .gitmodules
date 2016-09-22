@@ -1,48 +1,48 @@
 [submodule "change_partner_city_position"]
 	path = change_partner_city_position
-	url = git@github.com:humanytek/change_partner_city_position
+	url = https://github.com/humanytek/change_partner_city_position
 [submodule "farm"]
 	path = farm
-	url = git@github.com:humanytek/farm
+	url = https://github.com/humanytek/farm
 [submodule "partner_credential"]
 	path = partner_credential
-	url = git@github.com:humanytek/partner_credential
+	url = https://github.com/humanytek/partner_credential
 [submodule "partner_curp"]
 	path = partner_curp
-	url = git@github.com:humanytek/partner_curp
+	url = https://github.com/humanytek/partner_curp
 [submodule "purchase_contract_type"]
 	path = purchase_contract_type
-	url = git@github.com:humanytek/purchase_contract_type
+	url = https://github.com/humanytek/purchase_contract_type
 [submodule "purchase_dates"]
 	path = purchase_dates
-	url = git@github.com:humanytek/purchase_dates
+	url = https://github.com/humanytek/purchase_dates
 [submodule "purchase_sign"]
 	path = purchase_sign
-	url = git@github.com:humanytek/purchase_sign
+	url = https://github.com/humanytek/purchase_sign
 [submodule "sale_contract_type"]
 	path = sale_contract_type
-	url = git@github.com:humanytek/sale_contract_type
+	url = https://github.com/humanytek/sale_contract_type
 [submodule "truck"]
 	path = truck
-	url = git@github.com:humanytek/truck
+	url = https://github.com/humanytek/truck
 [submodule "truck_outlet"]
 	path = truck_outlet
-	url = git@github.com:humanytek/truck_outlet
+	url = https://github.com/humanytek/truck_outlet
 [submodule "truck_reception"]
 	path = truck_reception
-	url = git@github.com:humanytek/truck_reception
+	url = https://github.com/humanytek/truck_reception
 [submodule "vehicle"]
 	path = vehicle
-	url = git@github.com:humanytek/vehicle
+	url = https://github.com/humanytek/vehicle
 [submodule "vehicle_outlet"]
 	path = vehicle_outlet
-	url = git@github.com:humanytek/vehicle_outlet
+	url = https://github.com/humanytek/vehicle_outlet
 [submodule "vehicle_reception"]
 	path = vehicle_reception
-	url = git@github.com:humanytek/vehicle_reception
+	url = https://github.com/humanytek/vehicle_reception
 [submodule "waterhole"]
 	path = waterhole
-	url = git@github.com:humanytek/waterhole
+	url = https://github.com/humanytek/waterhole
 [submodule "wagon"]
 	path = wagon
-	url = git@github.com:humanytek/wagon.git
+	url = https://github.com/humanytek/wagon.git
