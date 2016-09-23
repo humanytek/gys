@@ -40,7 +40,7 @@
     * l10n_mx_facturae_cer
     * l10n_mx_facturae_group_show_wizards
     * l10n_mx_facturae_groups
-    * l10n_mx_facturae_lib
+    * l10n_mx_facturae_lib **sudo apt-get install xsltproc && sudo apt-get install xmlstarlet**
     * l10n_mx_facturae_pac
     * **l10n_mx_facturae_pac_sf**
     * l10n_mx_facturae_report
