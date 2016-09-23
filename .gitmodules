@@ -1,0 +1,3 @@
+[submodule "wagon_outlet"]
+	path = wagon_outlet
+	url = https://github.com/humanytek/wagon_outlet
