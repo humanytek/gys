@@ -46,3 +46,6 @@
 [submodule "wagon"]
 	path = wagon
 	url = https://github.com/humanytek/wagon.git
+[submodule "wagon_outlet"]
+	path = wagon_outlet
+	url = https://github.com/humanytek/wagon_outlet/
