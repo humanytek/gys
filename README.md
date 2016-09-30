@@ -11,6 +11,9 @@
 ## External Modules
 * https://github.com/OCA/account-invoicing **-b 8.0**
     * account_invoice_merge
+* https://github.com/Vauxoo/addons-vauxoo
+    * account_group_auditory
+    * controller_report_xls
 * https://github.com/argilsoft/argil-addons-v8/
     * account_invoice_line_currency
     * account_invoice_number
@@ -26,6 +29,8 @@
     * jasper_reports
 * https://github.com/OCA/server-tools **-b 8.0**
     * **qweb_usertime**
+* https://github.com/Vauxoo/odoo-ifrs
+    * ifrs_report
 * https://github.com/argilsoft/odoo-mexico
     * argil_odoo_mexico
     * city
